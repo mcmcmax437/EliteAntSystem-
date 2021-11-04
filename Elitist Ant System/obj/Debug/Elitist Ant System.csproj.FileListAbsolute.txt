@@ -1,0 +1,7 @@
+C:\Users\mcmcm\source\repos\Elitist Ant System\bin\Debug\Elitist Ant System.exe.config
+C:\Users\mcmcm\source\repos\Elitist Ant System\bin\Debug\Elitist Ant System.exe
+C:\Users\mcmcm\source\repos\Elitist Ant System\bin\Debug\Elitist Ant System.pdb
+C:\Users\mcmcm\source\repos\Elitist Ant System\obj\Debug\Elitist Ant System.csproj.AssemblyReference.cache
+C:\Users\mcmcm\source\repos\Elitist Ant System\obj\Debug\Elitist Ant System.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\source\repos\Elitist Ant System\obj\Debug\Elitist Ant System.exe
+C:\Users\mcmcm\source\repos\Elitist Ant System\obj\Debug\Elitist Ant System.pdb
